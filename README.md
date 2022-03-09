@@ -1,7 +1,7 @@
 # Data-Visualization
 Data visualization allows orgainizations and analyst to view data in a simpler, easier way to understand. Data Visualization uses graphical
 representations to display data. These graphical representations include chart, graphs, tools and maps. This project allows users
-to visualize data in charts only, but is in the process of adding new charts, graphs and maps.
+to visualize data in charts.
 
 ## Visuals
 
